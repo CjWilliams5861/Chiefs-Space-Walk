@@ -23,8 +23,8 @@ Home.html
 				</ul>
 			</nav>
 			<div class="center">
-			<h1>Welcome To Cascade</h1>
-			<h2>Create Something New</h2>
+			<h1>Welcome To Chiefs Laboratory</h1>
+			<h2>Create Something Guided</h2>
 			<div class="buttons">
 			<button>Explore More</button>
 			<button class="btn2">Subscribe Us</button>
@@ -40,7 +40,7 @@ Home.css
   margin: 0;
 }
 .wrapper {
-  background: url(moon.jpg) no-repeat;
+  background: url(sun.jpg) no-repeat;
   background-size: cover;
   height: 100vh;
 }
@@ -306,15 +306,15 @@ Biography
 
 <div class="head-text">
 
-<h1>Sam Bolton
+<h1>CHIEF WILLIAMS TO MY Instructor I Am Mr.Williams aka Carl
 
-<br>First ranker in boston university</h1>
+<br>FTCC BABY!!!</h1>
 
 <span class="square"></span>
 
 <p>
 
-Hello i am the way i want too. Thank you
+HATS OFF TO MR NORRIS. Thank you
 
 </p>
 
@@ -379,7 +379,7 @@ I have 1 brother and one sister we live together.
 
 <p1>
 
-Live near weston street and church.
+Wake County Is Home For Now
 
 </p1><br>
 
@@ -485,7 +485,7 @@ Treking
 
 <p2>
 
-Chemistry Class
+MR Norris CTI 110  Class is The reason i cancled my Transfer.
 
 </p2>
 
@@ -501,7 +501,7 @@ Chemistry Class
 
 <p2>
 
-Physics class
+Computer Science and Web Development is Life!
 
 </p2>
 
